@@ -137,11 +137,11 @@ body {
     margin: 0 auto;  
     padding-left: 0;
     top: 50px;
-    /* display: none; */
+    visibility: hidden;
     opacity: 0;
-    position: absolute;    
-    /* left: 130px; */
-    transition: all 0.5s ease-in-out;    
+    position: absolute;   
+    transition: all 0.5s ease-in-out; 
+       
 }
 
 .menu-prod li {
